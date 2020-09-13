@@ -1,5 +1,6 @@
 # python-dev-on-docker
 
+```
 $ pyenv local 3.6.8
 $ poetry init
 $ poetry add django
@@ -11,3 +12,4 @@ $ cd docker
 $ docker-compose up
 
 $ curl http://127.0.0.1:8000/
+```
